@@ -17,5 +17,6 @@ public class CountSetBit {
         int res = xorall^xornum;
         
         System.out.println(res);
+        sc.close();
     }
 }
