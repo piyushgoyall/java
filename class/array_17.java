@@ -21,21 +21,17 @@ public class array_17 {
             }
 
             int sum = 0;
-            for (int i = 1; i < n; i++) {
-                sum = arr[i] + arr[i - 1];
-                if (sum >= 0)
-                    arr[i] = sum;
-                else
-                    arr[i] = 0;
+            int max = Integer.MIN_VALUE;
+
+            for (int i = 0; i < n; i++) {
+                sum = arr[i] + sum;
+                max = Math.max(max, sum);
+
+                if (sum < 0)
+                    sum = 0;
             }
 
-            int maxx = arr[0];
-            for (int i = 1; i < n; i++) {
-                if (arr[i] > maxx)
-                    maxx = arr[i];
-            }
-
-            System.out.println(maxx);
+            System.out.println(max);
 
         } finally {
             sc.close();
