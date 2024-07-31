@@ -15,4 +15,5 @@ public class array_18 {
     public static void printArr(int[][] arr) {
         System.out.println(Arrays.deepToString(arr));
     }
+    
 }
