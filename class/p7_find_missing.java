@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class find_missing_7 {
+public class p7_find_missing {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int arrSize = 0;

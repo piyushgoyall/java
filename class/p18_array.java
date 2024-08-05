@@ -2,7 +2,7 @@
 
 import java.util.Arrays;
 
-public class array_18 {
+public class p18_array {
     public static void main(String[] args) {
         int[][] arr = getArr();
         printArr(arr);

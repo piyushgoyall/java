@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class closest_fibonacci_24 {
+public class p24_closest_fibonacci {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

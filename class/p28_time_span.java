@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class time_span_27 {
+public class p28_time_span {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CountSetBit_5 {
+public class p5_CountSetBit {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();

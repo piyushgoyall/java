@@ -4,7 +4,7 @@ import java.util.Scanner;
 // import java.util.Arrays;
 // import java.util.Collections;
 
-public class array_13 {
+public class p13_array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int arrSize = 0;

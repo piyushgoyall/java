@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class rec_26 {
+public class p27_rec {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

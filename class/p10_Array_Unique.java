@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Array_Unique_10 {
+public class p10_Array_Unique {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int arrSize = 0;

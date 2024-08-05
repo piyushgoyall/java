@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class array_17 {
+public class p17_array_ {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         try {

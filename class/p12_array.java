@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class array_12 {
+public class p12_array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

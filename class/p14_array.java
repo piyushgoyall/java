@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class array_14 {
+public class p14_array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int arrSize = 0;

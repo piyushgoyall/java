@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class KaprekarConst_26 {
+public class p26_KaprekarConst {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

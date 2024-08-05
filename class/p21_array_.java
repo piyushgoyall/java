@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class array_21 {
+public class p21_array_ {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         try {

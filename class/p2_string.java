@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class string_2 {
+public class p2_string {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a string: ");

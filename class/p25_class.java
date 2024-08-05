@@ -1,6 +1,6 @@
 import java.awt.Point;
 
-public class class_25 {
+public class p25_class {
     public class Circle {
         Point center = new Point();
         double radius;
@@ -33,7 +33,7 @@ public class class_25 {
     }
 
     public static void main(String[] args) {
-        class_25 outer = new class_25(); // Create an instance of the outer class
+        p25_class outer = new p25_class(); // Create an instance of the outer class
         Point p = new Point(1, 2); // Create a Point object
         Circle c = outer.new Circle(p, 3); // Use the outer class instance to create an instance of the inner class
 

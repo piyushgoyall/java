@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.Collections;
 
-public class array_20 {
+public class p20_array {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         try {

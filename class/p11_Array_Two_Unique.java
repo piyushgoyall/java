@@ -1,4 +1,4 @@
-public class Array_Two_Unique_11 {
+public class p11_Array_Two_Unique {
     public static void main(String[] args) {
         int[] arr = { 1, 5, 2, 3, 5, 1, 4, 3, 2, 6 };
         int res = 0;
