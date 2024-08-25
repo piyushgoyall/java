@@ -43,7 +43,7 @@ class Solution {
     }
 }
 
-public class Main {
+public class p12_Spiral {
     public static void main(String[] args) {
         Solution solution = new Solution();
 
