@@ -1,3 +1,4 @@
+package prac;
 import java.util.Scanner;
 
 public class p7_rev {

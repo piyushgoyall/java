@@ -1,3 +1,4 @@
+package prac;
 import java.util.Arrays;
 
 public class p1_varArgs {

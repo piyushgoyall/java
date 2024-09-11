@@ -1,3 +1,4 @@
+package prac;
 import java.util.Scanner;
 
 public class p5_Array {

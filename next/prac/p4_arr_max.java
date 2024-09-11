@@ -1,3 +1,4 @@
+package prac;
 public class p4_arr_max {
     public static void main(String[] args) {
         int[] arr = { 1, 3, 2, 9, 18 };
