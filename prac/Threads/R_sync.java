@@ -9,10 +9,10 @@ class Bus implements Runnable {
         this.passenger = passenger;
     }
 
-    public void run() {
+    public synchronized void run() { // add synchronized here to give the seat to only one passenger instead of giving it to all the three passengers.
         String name = Thread.currentThread().getName();
         if (available >= passenger) {
-            System.out.println(name + "Reversed Seat..!");
+            System.out.println(name + " reversed Seat..!");
             available -= passenger;
         } else {
             System.out.println("Sorry seat not available..!");
