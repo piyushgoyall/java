@@ -12,6 +12,8 @@ public class Main {
         triangle.area();
         square.area();
 
-        // Here if you remove 
+        // Here if you remove area method from shapes and then create an instance of Shapes using some other class you won't be able to do it.
+        // Shapes temp = new Sqaure();
+
     }
 }
