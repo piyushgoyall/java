@@ -19,7 +19,7 @@ public class p8_Graph1 {
     }
 
     public static void main(String[] args) {
-        int n = 6;96++6
+        int n = 6;
         int[][] edges = new int[][] {
                 { 0, 1 },
                 { 0, 2 },

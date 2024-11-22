@@ -1,3 +1,9 @@
+// The given code solves a problem where you need to distribute items (like apples) to a group of n people sitting in a circle. 
+// The task is to find the position of the person who will receive the last distributed item.
+// n: Number of people sitting in a circle.
+// pos: The starting position of the distribution (1-based index).
+// distribute: The total number of items to distribute.
+
 import java.util.Scanner;
 
 public class p1_Apple {
